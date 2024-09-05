@@ -1,6 +1,7 @@
 ### Task Description for the Mock Ticket
 
 **Title:** Build a Simple REST API for a To-Do List
+**Deadline:** Complete the task and submit your pull request by `15 September 2024`.
 
 **Objective:**  
 Create a simple REST API that allows users to manage a to-do list. The API should support the following operations:
